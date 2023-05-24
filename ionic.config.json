@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoFinalMovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
